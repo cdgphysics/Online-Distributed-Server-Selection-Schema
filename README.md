@@ -1,2 +1,2 @@
-# Multi_Agent_Reinforcement_Learning_Online_Distributed_Server_Selection
+# Online-Distributed-Server-Selection-Schema
 A Multi-Agent Reinforcement Learning (MARL) algorithmic solution is proposed to obtain a system makespan minimization and leverages the state and action spaces with respect to the time-dependencies of data processing for content generation, interrelation and delivery optimizations. Results show that the MARL schema produces optimal solutions similar to the objective functions of linear programming models while decreasing the computational time significantly for higher order multi-agent systems.
